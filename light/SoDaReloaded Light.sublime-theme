@@ -725,70 +725,70 @@
     {
         "class": "disclosure_button_control",
         "content_margin": [0, 0],
-        "layer0.texture": "Theme - SoDaReloaded/light/images/folder-closed.png",
+        "layer0.texture": "Theme - SoDaReloaded/light/images/group-closed.png",
         "layer0.opacity": 0,
         "layer0.inner_margin": 0
     },
     {
         "class": "disclosure_button_control",
         "parents": [{"class": "tree_row", "attributes": ["hover"]}],
-        "layer0.texture": "Theme - SoDaReloaded/light/images/folder-closed-hover.png"
+        "layer0.texture": "Theme - SoDaReloaded/light/images/group-closed-hover.png"
     },
     {
         "class": "disclosure_button_control",
         "parents": [{"class": "tree_row", "attributes": ["selected"]}],
-        "layer0.texture": "Theme - SoDaReloaded/light/images/folder-closed-selected.png"
+        "layer0.texture": "Theme - SoDaReloaded/light/images/group-closed-selected.png"
     },
     // Sidebar group open
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - SoDaReloaded/light/images/folder-open.png"
+        "layer0.texture": "Theme - SoDaReloaded/light/images/group-open.png"
     },
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row", "attributes": ["hover"]}],
-        "layer0.texture": "Theme - SoDaReloaded/light/images/folder-open-hover.png"
+        "layer0.texture": "Theme - SoDaReloaded/light/images/group-open-hover.png"
     },
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row", "attributes": ["selected"]}],
-        "layer0.texture": "Theme - SoDaReloaded/light/images/folder-open-selected.png"
+        "layer0.texture": "Theme - SoDaReloaded/light/images/group-open-selected.png"
     },
     // Sidebar folder closed
     {
         "class": "icon_folder",
-        "layer0.texture": "Theme - SoDaReloaded/light/images/folder-closed.png",
+        "layer0.texture": "Theme - SoDaReloaded/light/images/group-closed.png",
         "layer0.opacity": 1.0,
         "content_margin": [8, 8]
     },
     {
         "class": "icon_folder",
         "parents": [{"class": "tree_row", "attributes": ["hover"]}],
-        "layer0.texture": "Theme - SoDaReloaded/light/images/folder-closed-hover.png"
+        "layer0.texture": "Theme - SoDaReloaded/light/images/group-closed-hover.png"
     },
     {
         "class": "icon_folder",
         "parents": [{"class": "tree_row", "attributes": ["selected"]}],
-        "layer0.texture": "Theme - SoDaReloaded/light/images/folder-closed-selected.png"
+        "layer0.texture": "Theme - SoDaReloaded/light/images/group-closed-selected.png"
     },
     // Sidebar folder open
     {
         "class": "icon_folder",
         "parents": [{"class": "tree_row", "attributes": ["expanded"]}],
-        "layer0.texture": "Theme - SoDaReloaded/light/images/folder-open.png"
+        "layer0.texture": "Theme - SoDaReloaded/light/images/group-open.png"
     },
     {
         "class": "icon_folder",
         "parents": [{"class": "tree_row", "attributes": ["expanded", "hover"]}],
-        "layer0.texture": "Theme - SoDaReloaded/light/images/folder-open-hover.png"
+        "layer0.texture": "Theme - SoDaReloaded/light/images/group-open-hover.png"
     },
     {
         "class": "icon_folder",
         "parents": [{"class": "tree_row", "attributes": ["expanded", "selected"]}],
-        "layer0.texture": "Theme - SoDaReloaded/light/images/folder-open-selected.png"
+        "layer0.texture": "Theme - SoDaReloaded/light/images/group-open-selected.png"
     },
     // Sidebar folder loading
     {
